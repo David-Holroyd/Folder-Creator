@@ -1,0 +1,1 @@
+This project created a 2022 folder in the same directory for all directories containing a 2021 folder. The idea is to prevent manual creation of these folders at the start of the year.
